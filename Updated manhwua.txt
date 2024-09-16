@@ -8,7 +8,7 @@ The Knight King Who Returned With A God - 45
 
 The Player Hides His Past - 31
 
-Disastrous Necromancer - 110
+Disastrous Necromancer - 116
 
 The Priest of Corruption  - 6
 
@@ -22,7 +22,7 @@ Master Of The Martial Arts Library - 39
 
 Absolute Necromancer - 25
 
-Tales Of A Shinning Sword - 67
+Tales Of A Shinning Sword - 76
 
 Kyushu Chronicles Of Immortals And Demons - 4
 
@@ -32,7 +32,7 @@ Gangho Apocalypse -16
 
 Logging 10,000 Years into the Future - 146
 
-Swordmaster’S Youngest Son - 114
+Swordmaster’S Youngest Son - 115
 
 World’S Greatest Senior Disciple -89
 
@@ -42,9 +42,9 @@ Dragon Master -117
 
 The Return Of The Disaster-Class Hero -81
 
-Solo Farming In The Tower -74
+Solo Farming In The Tower -78
 
-Chronicles Of The Demon Faction -72
+Chronicles Of The Demon Faction -75
 
 Demonic Master Of Mount Kunlun -50
 
@@ -391,13 +391,9 @@ The Hated Black Mage Returns -9
 
 The Masters Are Subscribing To Me -1
 
-A Ranker's Guide To The Good Life
+A Ranker's Guide To The Good Life -37
 
 Black Serpent  -11
-
-Monarch of Death
-
-Raided the God's Warehouse
 
 Invincible After Shocking My Empress Wife -32
 
