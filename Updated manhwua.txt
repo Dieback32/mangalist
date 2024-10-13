@@ -8,7 +8,7 @@ The Knight King Who Returned With A God - 45
 
 The Player Hides His Past - 31
 
-Disastrous Necromancer - 116
+Disastrous Necromancer - 121
 
 The Priest of Corruption  - 6
 
@@ -30,17 +30,17 @@ Level 1 Player -73
 
 Gangho Apocalypse -16
 
-Logging 10,000 Years into the Future - 146
+Logging 10,000 Years into the Future - 155
 
-Swordmaster’S Youngest Son - 115
+Swordmaster’S Youngest Son - 130
 
-World’S Greatest Senior Disciple -89
+World’S Greatest Senior Disciple -102
 
 World Defying Dan God -58
 
 Dragon Master -117
 
-The Return Of The Disaster-Class Hero -81
+The Return Of The Disaster-Class Hero -85
 
 Solo Farming In The Tower -78
 
@@ -305,7 +305,7 @@ The Betrayal Of Shadow -19
 
 The doomsday ruthless man: hoarding trillions of supplies at the beginning -32
 
-Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family -34
+Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family -40
 
 This Account Is Ridiculous -22
 
@@ -351,7 +351,7 @@ Expelled Hero Is Too Strong -7
 
 The Ten Thousand Clans Invasion: Guardian Of The Rear -18
 
-My Disciple Became the Great Demon Empress?! -14
+My Disciple Became the Great Demon Empress?! -26
 
 The Greatest In The World -61
 
@@ -401,10 +401,40 @@ A Rogue Guard in a Medieval Fantasy
 
 The Magic Genius Of The Marquis House -14
 
-The Reversal Of My Life As A Side Character
+The Reversal Of My Life As A Side Character -27
 
-I Became A Part Time Employee For Gods
-
-Ticket Hero
+Absolute Dominion -7
 
 Starting As A Master Of Female Disciples' Leisure Skills -3
+
+Song Baek - 14
+
+Surviving as a Genius on Borrowed Time -6
+
+The Regressed Mercenary’s Machinations -8
+
+Traveling Through Time And Space To Become An Unlucky Npc: I Have A Wife To Protect Me -51
+
+Cultivation: The Heaven's Fated Useless Genius -29
+
+The Edgeless Sword From The Village -56
+
+Levelling Up In An Exclusive Dungeon -21
+
+Invincible Territory -28
+
+Reincarnated As A Genius Prodigy Of A Prestigious Family -20 
+
+From Goblin To Goblin God -19
+
+Margrave’S Bastard Son Was The Emperor -44
+
+The Second Eunuch Regains His Manhood -9
+
+Return Of The Runebound Professor -9
+
+I Can Control All Opportunities -47
+
+Regressing as the Reincarnated Bastard of the Sword Clan -20
+
+I, The Demon Lord, Am Being Targeted By My Female Disciples! -17
