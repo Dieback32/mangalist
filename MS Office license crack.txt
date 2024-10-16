@@ -1,0 +1,3 @@
+powersheell (admin)
+type:irm https://massgrave.dev/get | iex
+press or select "2"
