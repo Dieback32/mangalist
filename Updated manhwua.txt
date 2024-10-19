@@ -28,8 +28,6 @@ Kyushu Chronicles Of Immortals And Demons - 4
 
 Level 1 Player -73
 
-Gangho Apocalypse -16
-
 Logging 10,000 Years into the Future - 155
 
 Swordmaster’S Youngest Son - 130
@@ -61,7 +59,7 @@ Boundless Necromancer -54
 
 Academy’S Genius Swordsman -56
 
-Demon Evolution -64
+Demon Evolution -77
 
 The Iron-Blooded Necromancer Has Returned -37
 
@@ -97,7 +95,7 @@ Master: This Villainous Disciple Is Not The Holy Child -69
 
 Solo Max-Level Newbie -168
 
-Murim Login -185
+Murim Login -186
 
 The Great Villain Who Threatened to Kill Himself -12
 
@@ -123,7 +121,7 @@ Legendary Youngest Son Of The Marquis House -111
 
 I am fated villain -169
 
-Return Of The Mount Hua Sect -141
+Return Of The Mount Hua Sect -145
 
 Beyond Myriad Peoples -275
 
@@ -438,3 +436,5 @@ I Can Control All Opportunities -47
 Regressing as the Reincarnated Bastard of the Sword Clan -20
 
 I, The Demon Lord, Am Being Targeted By My Female Disciples! -17
+
+I Am Possessed By The Sword God -27
