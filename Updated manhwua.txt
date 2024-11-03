@@ -40,7 +40,7 @@ Dragon Master -117
 
 The Return Of The Disaster-Class Hero -85
 
-Solo Farming In The Tower -78
+Solo Farming In The Tower -82
 
 Chronicles Of The Demon Faction -75
 
@@ -63,7 +63,7 @@ Demon Evolution -77
 
 The Iron-Blooded Necromancer Has Returned -37
 
-Infinite Mage -64
+Infinite Mage -88
 
 Star Instructor  Master Baek -99
 
@@ -103,23 +103,21 @@ Weapon Maker -21
 
 The Reincarnated Assassin is a Genius Swordsman -37
 
-I was more overpowered than the hero, so I hid my power! -49
+I was more overpowered than the hero, so I hid my power! -65
 
 Million Times Attack Speed -70
 
 I am the descendant of the Divine Dragon -25
 
-Hero X Demon Queen -97
+Hero X Demon Queen -111
 
 Records Of The Demonic Path’S Return -45
 
 Five-Dimensional Zone -22
 
-Golden Mage -38
-
 Legendary Youngest Son Of The Marquis House -111
 
-I am fated villain -169
+I am fated villain -197
 
 Return Of The Mount Hua Sect -145
 
@@ -149,7 +147,7 @@ The Return Of Apocalypses Tyrant -25
 
 What Do You Do When You Suddenly Become An Immortal? -89
 
-Tales Of Demons And Gods -485.5
+Tales Of Demons And Gods -481.5
 
 The Kingdoms Of Ruin -43
 
@@ -163,15 +161,13 @@ Chronicles Of Heavenly Demon -212
 
 Conqueror of modern martial arts Kang Haejin -8
 
-Records Of The Swordsman Scholar -129
+Records Of The Swordsman Scholar -132
 
 The Scholar's Reincarnation -156
 
 Tale of a Scribe Who Retires To The Countryside -209
 
 Return Of The Bachelor -188
-
-The Heavenly Demon’s Descendant -21
 
 Reincarnation Of The Murim Clan's Former Ranker -106
 
@@ -187,7 +183,7 @@ Volcanic Age -256
 
 Chronicles Of A Returner -97
 
-The Undefeatable Swordsman -215
+The Undefeatable Swordsman -217
 
 Second Life of Dongfang Bubai -20
 
@@ -199,7 +195,7 @@ My Lucky Encounter From The Game Turned Into Reality -56
 
 I Killed an Academy Player -25
 
-Bloodhound’s Regression Instinct -38
+Bloodhound’s Regression Instinct -52
 
 I Raised the Yandere Villain Empress -15
 
@@ -283,7 +279,7 @@ Dungeon Ni Hisomu Yandere Na Kanojo Ni Ore Wa Nando Mo Korosareru - 12.2
 
 I Became A Big-Shot On The Heavenly Leaderboard -27
 
-The Dark Magician Transmigrates After 66666 Years -119
+The Dark Magician Transmigrates After 66666 Years -127
 
 Reaper Of The Drifting Moon -88
 
@@ -359,7 +355,7 @@ The Time Mage's Strong New Game ～I Returned To The Past To Rewrite It As The W
 
 Hundreds of Invincible Strikes -49
 
-arctic cold war -18
+arctic cold war -20
 
 Apocalyptic Super Farm -56
 
@@ -381,7 +377,7 @@ I Scared the Divine Lord as I Handed over the Ancient Immortal Pill -50
 
 I Become a Legendary Arch Mage by Reading a Book - 11
 
-Hiding a logistics center in the apocalypse - 7
+Hiding a logistics center in the apocalypse - 14
 
 The Hated Black Mage Returns -9
 
@@ -395,21 +391,19 @@ Invincible After Shocking My Empress Wife -32
 
 Conquering the Academy with Just a Sashimi Knife -8
 
-A Rogue Guard in a Medieval Fantasy
-
 The Magic Genius Of The Marquis House -14
 
 The Reversal Of My Life As A Side Character -27
 
-Absolute Dominion -7
+Absolute Dominion -12
 
 Starting As A Master Of Female Disciples' Leisure Skills -3
 
-Song Baek - 14
+Song Baek - 23
 
-Surviving as a Genius on Borrowed Time -6
+Surviving as a Genius on Borrowed Time -11
 
-The Regressed Mercenary’s Machinations -8
+The Regressed Mercenary’s Machinations -11
 
 Traveling Through Time And Space To Become An Unlucky Npc: I Have A Wife To Protect Me -51
 
@@ -419,9 +413,7 @@ The Edgeless Sword From The Village -56
 
 Levelling Up In An Exclusive Dungeon -21
 
-Invincible Territory -28
-
-Reincarnated As A Genius Prodigy Of A Prestigious Family -20 
+Reincarnated As A Genius Prodigy Of A Prestigious Family -21
 
 From Goblin To Goblin God -19
 
@@ -438,3 +430,7 @@ Regressing as the Reincarnated Bastard of the Sword Clan -20
 I, The Demon Lord, Am Being Targeted By My Female Disciples! -17
 
 I Am Possessed By The Sword God -27
+
+The Chaebeol's Youngest Son -121
+
+Heavenly Demon Wants To Be A Chef -22
