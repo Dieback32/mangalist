@@ -2,7 +2,6 @@ https://www.photopea.com/
 https://ezgif.com/
 https://photoeditor.ai/
 https://magiclens.app/
-https://leonardo.ai/
 https://magicstudio.com/magiceraser/
 https://imglarger.com/
 https://www.craiyon.com/
@@ -22,3 +21,4 @@ https://www.remove.bg/
 https://www.designify.com
 https://pencilsketch.imageonline.co/
 https://www.watermarkremover.io/
+https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint
