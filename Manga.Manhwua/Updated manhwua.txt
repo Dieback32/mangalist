@@ -315,23 +315,23 @@ The Max Level Hero Strikes Back -73
 
 Supreme Zerg Lord -18
 
-Game Of Familia: Kazoku Senki -62
+Game Of Familia: Kazoku Senki -63
 
 Grand General -83
 
 The Legendary Spearman Returns -139
 
-Ice lord -1
+Ice lord -15
 
 My Inventory is Abnormal -24
 
 Escort Agency Of The Apocalypse -76
 
-The Heavenly Demon Will Give You a Massage -18
+The Heavenly Demon Will Give You a Massage -34
 
 The Twin Swords Of The Sima -44
 
-Versatile Sword Cultivator -9
+Versatile Sword Cultivator -26
 
 Asura -11
 
@@ -353,9 +353,9 @@ The Time Mage's Strong New Game ～I Returned To The Past To Rewrite It As The W
 
 Hundreds of Invincible Strikes -49
 
-arctic cold war -20
+arctic cold war -23
 
-Apocalyptic Super Farm -56
+Apocalyptic Super Farm -74
 
 Sword Sheath's Child - 61
 
@@ -367,7 +367,7 @@ Childhood Friend of the Zenith -31
 
 Absolute Regression -21
 
-High school queen -14
+High school queen -22
 
 Warrior Grandpa And Supreme Granddaughter -60
 
@@ -379,51 +379,47 @@ Hiding a logistics center in the apocalypse - 14
 
 The Hated Black Mage Returns -9
 
-The Masters Are Subscribing To Me -1
+The Masters Are Subscribing To Me -15
 
 A Ranker's Guide To The Good Life -37
 
 Black Serpent  -11
 
-Invincible After Shocking My Empress Wife -32
+Conquering the Academy with Just a Sashimi Knife -18
 
-Conquering the Academy with Just a Sashimi Knife -8
-
-The Magic Genius Of The Marquis House -14
+The Magic Genius Of The Marquis House -30
 
 The Reversal Of My Life As A Side Character -27
 
-Absolute Dominion -14
+Absolute Dominion -16
 
 Starting As A Master Of Female Disciples' Leisure Skills -3
 
-Song Baek - 23
+Song Baek - 25
 
 Surviving as a Genius on Borrowed Time -11
 
-The Regressed Mercenary’s Machinations -11
+The Regressed Mercenary’s Machinations -14
 
-Traveling Through Time And Space To Become An Unlucky Npc: I Have A Wife To Protect Me -51
+Traveling Through Time And Space To Become An Unlucky Npc: I Have A Wife To Protect Me -54
 
 Cultivation: The Heaven's Fated Useless Genius -29
 
 The Edgeless Sword From The Village -56
 
-Levelling Up In An Exclusive Dungeon -21
+Levelling Up In An Exclusive Dungeon -26
 
-Reincarnated As A Genius Prodigy Of A Prestigious Family -21
+Reincarnated As A Genius Prodigy Of A Prestigious Family -26
 
-From Goblin To Goblin God -19
+From Goblin To Goblin God -25
 
 Margrave’S Bastard Son Was The Emperor -44
 
-The Second Eunuch Regains His Manhood -9
+The Second Eunuch Regains His Manhood -15
 
 Return Of The Runebound Professor -9
 
-I Can Control All Opportunities -47
-
-Regressing as the Reincarnated Bastard of the Sword Clan -20
+Regressing as the Reincarnated Bastard of the Sword Clan -26
 
 I, The Demon Lord, Am Being Targeted By My Female Disciples! -17
 
@@ -437,8 +433,8 @@ Entomologist In Sichuan Tang Clan -8
 
 Last Word of the World
 
-My Second Life Is A Healing Life?
-
 Cosmic Heavenly Demon 3077
 
 Solo Resurrection -31
+
+Dao of the Bizarre Immortal
