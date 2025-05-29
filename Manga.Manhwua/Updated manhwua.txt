@@ -20,7 +20,7 @@ Master Of The Martial Arts Library - 39
 
 Absolute Necromancer - 25
 
-Tales Of A Shinning Sword - 76
+Tales Of A Shinning Sword - 100
 
 Kyushu Chronicles Of Immortals And Demons - 4
 
@@ -77,7 +77,7 @@ What, You Dare Pretend In Front Of Me, The Strongest In The Immortal World? -5
 
 Terminally-Ill Genius Dark Knight -58
 
-Heavenly Inquisition Sword -88
+Heavenly Inquisition Sword -122
 
 Tsuki Ga Michibiku Isekai Douchuu -94
 
@@ -85,7 +85,7 @@ The Emperor’s Sword -63
 
 The Constellations Are My Disciples -45
 
-Revenge Of The Sword Clan's Hound - 78
+Revenge of the Iron-Blooded Sword Hound - 112
 
 Mr. Zombie -64
 
@@ -117,11 +117,11 @@ Legendary Youngest Son Of The Marquis House -111
 
 I am fated villain -197
 
-Return Of The Mount Hua Sect -145
+Return Of The Mount Hua Sect -152
 
 Beyond Myriad Peoples -275
 
-Nano Machine -216
+Nano Machine -260
 
 Legend Of The Northern Blade - 178
 
@@ -129,7 +129,7 @@ Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu O Kiwamemasu -175
 
 Scoring the Sacred Body of the Ancients from the Get-go -58
 
-Magic Emperor -601
+Magic Emperor -703
 
 Martial Peak - 3644
 
@@ -139,13 +139,15 @@ Global Power: I Can Control All The Elements -44
 
 Moon Slayer -17
 
+lightning degree -205
+
 The World's Best Sect Of Dependency -29
 
 The Return Of Apocalypses Tyrant -25
 
 What Do You Do When You Suddenly Become An Immortal? -89
 
-Tales Of Demons And Gods -481.5
+Tales Of Demons And Gods -498
 
 The Kingdoms Of Ruin -43
 
@@ -154,8 +156,6 @@ Necromancer Academy And The Genius Summoner -44
 Yuan Zun -544
 
 The Greatest Estate Designer -121
-
-Chronicles Of Heavenly Demon -212
 
 Conqueror of modern martial arts Kang Haejin -8
 
@@ -205,7 +205,7 @@ The Player That Can't Level Up -157
 
 Reborn As The Enemy Prince -31
 
-The Archmage's Restaurant -47
+The Archmage's Restaurant -77
 
 I Rely on My Invincibility to Deal Tons of Damage Passively! -15
 
@@ -275,11 +275,11 @@ The Executed Sage Is Reincarnated As A Lich And Starts An All-Out War -36
 
 Dungeon Ni Hisomu Yandere Na Kanojo Ni Ore Wa Nando Mo Korosareru - 12.2
 
-I Became A Big-Shot On The Heavenly Leaderboard -27
+I Became A Big-Shot On The Heavenly Leaderboard -91
 
 The Dark Magician Transmigrates After 66666 Years -127
 
-Reaper Of The Drifting Moon -88
+Reaper Of The Drifting Moon -94
 
 The Unbeatable Dungeon's Lazy Boss Monster -44
 
@@ -289,19 +289,15 @@ How To Survive As A Dragon With Time-Limit -31
 
 Myst, Might, Mayhem -24
 
-Reincarnation of a Martial Prodigy -21
-
 Dark And Light Martial Emperor -48
 
-The Betrayal Of Shadow -19
+The doomsday ruthless man: hoarding trillions of supplies at the beginning -39
 
-The doomsday ruthless man: hoarding trillions of supplies at the beginning -32
-
-Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family -40
+Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family -68
 
 This Account Is Ridiculous -22
 
-The Mysterious World’s Greatest Martial Artist Little Prince -45
+The Mysterious World’s Greatest Martial Artist Little Prince -71
 
 The Reborn Young Lord Is An Assassin -44
 
@@ -313,7 +309,7 @@ My Brother Is The Chosen One -22
 
 The Max Level Hero Strikes Back -73
 
-Supreme Zerg Lord -18
+Overlord of Insects -55
 
 Game Of Familia: Kazoku Senki -63
 
@@ -333,7 +329,7 @@ The Twin Swords Of The Sima -44
 
 Versatile Sword Cultivator -26
 
-Asura -11
+Asura -36
 
 Magic Academy’s Genius Blinker -29
 
@@ -353,7 +349,7 @@ The Time Mage's Strong New Game ～I Returned To The Past To Rewrite It As The W
 
 Hundreds of Invincible Strikes -49
 
-arctic cold war -23
+arctic cold war -45
 
 Apocalyptic Super Farm -74
 
@@ -363,9 +359,9 @@ Reincarnator - 37
 
 Hunter Academy’S Strongest Battle God -40
 
-Childhood Friend of the Zenith -31
+Childhood Friend of the Zenith -53
 
-Absolute Regression -21
+Absolute Regression -30
 
 High school queen -22
 
@@ -385,21 +381,25 @@ A Ranker's Guide To The Good Life -37
 
 Black Serpent  -11
 
-Conquering the Academy with Just a Sashimi Knife -18
+Conquering the Academy with Just a Sashimi Knife -38
 
 The Magic Genius Of The Marquis House -30
 
 The Reversal Of My Life As A Side Character -27
 
-Absolute Dominion -16
+Absolute Dominion -42
+
+Fatal Reset
+
+The Necromancer Family’s Young Heir -20
 
 Starting As A Master Of Female Disciples' Leisure Skills -3
 
 Song Baek - 25
 
-Surviving as a Genius on Borrowed Time -11
+Surviving as a Genius on Borrowed Time -33
 
-The Regressed Mercenary’s Machinations -14
+The Regressed Mercenary’s Machinations -34
 
 Traveling Through Time And Space To Become An Unlucky Npc: I Have A Wife To Protect Me -54
 
@@ -411,7 +411,7 @@ Levelling Up In An Exclusive Dungeon -26
 
 Reincarnated As A Genius Prodigy Of A Prestigious Family -26
 
-From Goblin To Goblin God -25
+From Goblin To Goblin God -50
 
 Margrave’S Bastard Son Was The Emperor -44
 
@@ -425,6 +425,8 @@ I, The Demon Lord, Am Being Targeted By My Female Disciples! -17
 
 I Am Possessed By The Sword God -27
 
+Fated to Be Loved by Villains -25
+
 The Chaebeol's Youngest Son -121
 
 Heavenly Demon Wants To Be A Chef -22
@@ -437,4 +439,98 @@ Cosmic Heavenly Demon 3077
 
 Solo Resurrection -31
 
-Dao of the Bizarre Immortal
+Dao of the Bizarre Immortal - 11
+
+Tenkaichi: Nihon Saikyou Bugeisha Ketteisen
+
+Reincarnation Of The Heavenly Demon -70
+
+Black Corporation: Joseon -75
+
+Perhaps Invincible -31
+
+The mad gate -
+
+Surviving the Apocalypse -49
+
+Genius Prismatic Mage -30
+
+Becoming a God, Starting as water monkey -23
+
+I Became the Successor of the Martial God -20
+
+Regression of the Yong Clan Heir -21
+
+Chronicles of the Reincarnated Demon God -26
+
+Revenge Of the Bloom Flower  -36
+
+The Heavenly Demon Wants a Quiet Life -26
+
+Monster General Recorded Legacy -37
+
+Using My Cooking Skills in a Murim World -22
+
+I’m a Martial Art Villainess, but I’m the Strongest! - 124
+
+Metcha Shoukan Sareta Ken -30
+
+Mount Hua Sect's Genius Phantom Swordsman - 18
+
+I'm going to destroy this country
+
+Lightning Degree -13
+
+The New Beggars' Sect -16
+
+Overgeared -130
+
+Regressed life of the Sword Clan’s Ignoble Reincarnator -47
+
+Black Fox: Sword Master Of Mount Kunlun -20
+
+God-level Assassin, I’m the Shadow -12
+
+War Of The Corpses -9
+
+The Illegitimate Who Devours Weapons -21
+
+The Great Sage of the Namgung Clan -14
+
+Limitless Ascension: Strength Amid Adversity -
+
+Apocalypse: Cockroaches Gives Me Buff -12
+
+The Legendary Hero is an Academy Honors Student -25
+
+Like a Fiery Flame -9
+
+The Magic Tower's Problem Child -8
+
+I Became the Husband of the Cult Leader of the Demonic Sect -12
+
+The Apocalypse is Here -6
+
+If I Don’t Die Soon, I Will Rule The Demon Realm -81
+
+I Will Raise This Family to Greatness -30
+
+The Villain Wants to Live -30
+
+Genius Archer’s Livestreaming -57
+
+After Ten Millennia in Hell -112
+
+Heavenly Grand Archive's Young Master -126
+
+Space Cheon-ma 3077 -44
+
+Iljin Romance -46
+
+Shut Up, Evil Dragon! I Don't Want to Raise a Child With You Anymore -40
+
+On the Way to Meet Mom -28
+
+Ultimate Shut-in -30
+
+The beginning after the end -184
