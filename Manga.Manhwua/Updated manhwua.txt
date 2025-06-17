@@ -6,13 +6,13 @@ The Knight King Who Returned With A God - 45
 
 The Player Hides His Past - 31
 
-Disastrous Necromancer - 121
+Disastrous Necromancer - 135
 
 The Priest of Corruption  - 6
 
 Dragon Emperor Martial God -20
 
-Mookhyang - Dark Lady - 209
+Mookhyang - Dark Lady - 254
 
 Leveling Up By Hoarding - 25
 
@@ -26,9 +26,9 @@ Kyushu Chronicles Of Immortals And Demons - 4
 
 Level 1 Player -73
 
-Logging 10,000 Years into the Future - 155
+Logging 10,000 Years into the Future - 223
 
-Swordmaster’S Youngest Son - 130
+Swordmaster’S Youngest Son - 162
 
 World’S Greatest Senior Disciple -102
 
@@ -101,13 +101,13 @@ Weapon Maker -21
 
 The Reincarnated Assassin is a Genius Swordsman -37
 
-I was more overpowered than the hero, so I hid my power! -65
+I was more overpowered than the hero, so I hid my power! -71
 
 Million Times Attack Speed -70
 
 I am the descendant of the Divine Dragon -25
 
-Hero X Demon Queen -111
+Hero X Demon Queen -156
 
 Records Of The Demonic Path’S Return -45
 
@@ -115,7 +115,7 @@ Five-Dimensional Zone -22
 
 Legendary Youngest Son Of The Marquis House -111
 
-I am fated villain -197
+I am fated villain -254
 
 Return Of The Mount Hua Sect -152
 
@@ -163,7 +163,7 @@ Records Of The Swordsman Scholar -132
 
 The Scholar's Reincarnation -156
 
-Tale of a Scribe Who Retires To The Countryside -209
+Tale of a Scribe Who Retires To The Countryside -235
 
 Return Of The Bachelor -188
 
@@ -363,15 +363,13 @@ Childhood Friend of the Zenith -53
 
 Absolute Regression -30
 
-High school queen -22
-
 Warrior Grandpa And Supreme Granddaughter -60
 
 I Scared the Divine Lord as I Handed over the Ancient Immortal Pill -50
 
 I Become a Legendary Arch Mage by Reading a Book - 30
 
-Hiding a logistics center in the apocalypse - 14
+Hiding a logistics center in the apocalypse - 45
 
 The Hated Black Mage Returns -9
 
@@ -509,7 +507,7 @@ The Magic Tower's Problem Child -8
 
 I Became the Husband of the Cult Leader of the Demonic Sect -12
 
-The Apocalypse is Here -6
+The Apocalypse is Here -14
 
 If I Don’t Die Soon, I Will Rule The Demon Realm -81
 
@@ -533,4 +531,22 @@ On the Way to Meet Mom -28
 
 Ultimate Shut-in -30
 
-The beginning after the end -184
+The beginning after the end -219
+
+Reborn in a Cyber Cultivation World, I Fight My Way to the Top
+
+Level 999 Goblin -7
+
+Dominating the Wasteland: I Control an Immortal Sect in the Apocalypse - 1
+
+Starting As The God Of Wealth, Taming Billions Of Divine Pets! - 22
+
+Martial Evolution: Start by Awakening the King of Monsters
+
+The Girl from Random Chatting
+
+Return of the Legend
+
+I am Han Sanqian
+
+Emperor of Solo Play - 18
