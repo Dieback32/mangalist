@@ -9,3 +9,5 @@ https://magicui.design/
 https://www.img2html.com/
 https://openui.fly.dev/ai/new
 https://www.cursor.com/
+https://deepagent.abacus.ai/
+https://magicloops.dev/

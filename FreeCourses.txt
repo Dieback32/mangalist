@@ -4,3 +4,7 @@ https://quickref.me/
 https://www.edx.org/
 https://www.anytopic.io/
 https://www.digitalsamaritan.co/
+https://exercism.org/
+https://fullstackopen.com/en/
+https://roadmap.sh/
+https://www.coursera.org/
