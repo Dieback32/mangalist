@@ -20,7 +20,7 @@ Master Of The Martial Arts Library - 39
 
 Absolute Necromancer - 25
 
-Tales Of A Shinning Sword - 100
+Tales Of A Shinning Sword - 116
 
 Kyushu Chronicles Of Immortals And Demons - 4
 
@@ -36,7 +36,7 @@ Dragon Master -117
 
 The Return Of The Disaster-Class Hero -85
 
-Solo Farming In The Tower -82
+Solo Farming In The Tower -105
 
 Chronicles Of The Demon Faction -123
 
@@ -135,7 +135,7 @@ Global Power: I Can Control All The Elements -44
 
 Moon Slayer -17
 
-lightning degree -205
+lightning degree -210
 
 The World's Best Sect Of Dependency -29
 
@@ -453,7 +453,7 @@ Chronicles of the Reincarnated Demon God -26
 
 Revenge Of the Bloom Flower  -36
 
-The Heavenly Demon Wants a Quiet Life -26
+The Heavenly Demon Wants a Quiet Life -46
 
 Monster General Recorded Legacy -37
 
@@ -466,8 +466,6 @@ Metcha Shoukan Sareta Ken -30
 Mount Hua Sect's Genius Phantom Swordsman - 18
 
 I'm going to destroy this country
-
-Lightning Degree -13
 
 The New Beggars' Sect -16
 
@@ -497,7 +495,7 @@ The Magic Tower's Problem Child -8
 
 I Became the Husband of the Cult Leader of the Demonic Sect -12
 
-The Apocalypse is Here -14
+The Apocalypse is Here -27
 
 If I Don’t Die Soon, I Will Rule The Demon Realm -81
 
@@ -567,6 +565,16 @@ Oversummoned, Overpowered, and Over It! -45
 
 A Rogue Guard in a Medieval Fantasy -28
 
-Chronicles of the Lazy Sovereign -5
+Chronicles of the Lazy Sovereign -11
 
 I Was the Final Boss
+
+Tang Clan Legend - 13
+
+The Demon-Slaying Madman—reborn as a demon - 4
+
+Urek Mazino -27
+
+Demonic Sect Frontline: Thirteen Flying Dragons -6
+
+Goddess of Abundance and the Genius Rogue Apostle -6
