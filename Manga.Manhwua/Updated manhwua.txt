@@ -117,7 +117,7 @@ Return Of The Mount Hua Sect -152
 
 Beyond Myriad Peoples -275
 
-Nano Machine -260
+Nano Machine -277
 
 Legend Of The Northern Blade - 178
 
@@ -125,7 +125,7 @@ Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu O Kiwamemasu -175
 
 Scoring the Sacred Body of the Ancients from the Get-go -58
 
-Magic Emperor -703
+Magic Emperor -753
 
 Martial Peak - 3644
 
@@ -287,7 +287,7 @@ Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family -68
 
 This Account Is Ridiculous -22
 
-The Mysterious World’s Greatest Martial Artist Little Prince -71
+The Mysterious World’s Greatest Martial Artist Little Prince -83
 
 The Reborn Young Lord Is An Assassin -44
 
@@ -427,7 +427,7 @@ Cosmic Heavenly Demon 3077
 
 Solo Resurrection -31
 
-Dao of the Bizarre Immortal - 11
+Dao of the Bizarre Immortal - 38
 
 Tenkaichi: Nihon Saikyou Bugeisha Ketteisen
 
@@ -578,3 +578,15 @@ Urek Mazino -27
 Demonic Sect Frontline: Thirteen Flying Dragons -6
 
 Goddess of Abundance and the Genius Rogue Apostle -6
+
+New Goguryeo Chronicles -38
+
+Devil Summoner, I am the Abyss Lord
+
+Legend of Dangun
+
+The Tale of the Skeleton Messenger
+
+The Great Heavenly Demon Sovereign
+
+A Regressor's Tale of Cultivation
