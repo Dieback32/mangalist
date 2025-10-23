@@ -79,7 +79,7 @@ The Emperor’s Sword -63
 
 The Constellations Are My Disciples -45
 
-Revenge of the Iron-Blooded Sword Hound - 112
+Revenge of the Iron-Blooded Sword Hound - 135
 
 Mr. Zombie -64
 
@@ -109,15 +109,13 @@ Five-Dimensional Zone -22
 
 Legendary Youngest Son Of The Marquis House -111
 
-I am fated villain -254
+I am fated villain -285
 
 Return Of The Mount Hua Sect -152
 
 Beyond Myriad Peoples -275
 
 Nano Machine -277
-
-Legend Of The Northern Blade - 178
 
 Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu O Kiwamemasu -175
 
@@ -133,7 +131,7 @@ Global Power: I Can Control All The Elements -44
 
 Moon Slayer -17
 
-lightning degree -210
+Lightning Degree -210
 
 The World's Best Sect Of Dependency -29
 
@@ -173,7 +171,7 @@ Infinite Leveling: Murim -187
 
 Volcanic Age -256
 
-Chronicles Of A Returner -97
+Chronicles Of A Returner -133
 
 The Undefeatable Swordsman -217
 
@@ -199,7 +197,7 @@ The Player That Can't Level Up -157
 
 Reborn As The Enemy Prince -31
 
-The Archmage's Restaurant -77
+The Archmage's Restaurant -103
 
 I Rely on My Invincibility to Deal Tons of Damage Passively! -15
 
@@ -281,7 +279,7 @@ Dark And Light Martial Emperor -48
 
 The doomsday ruthless man: hoarding trillions of supplies at the beginning -39
 
-Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family -68
+Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family -93
 
 This Account Is Ridiculous -22
 
@@ -593,7 +591,7 @@ Jade of the Eight Gates -6
 
 Disciple of the Three Kings
 
-After the School Belle Dumped Me, I Became a Martial Arts God
+After the School Belle Dumped Me, I Became a Martial Arts God -29
 
 Dead Mansion
 
@@ -608,3 +606,15 @@ Full-Time Awakening -21
 Rebirth of the Divine Demon -9
 
 Return of the First Patriarch: The Strongest Reincarnates into His Descendant 1000 Years Later -6
+
+Lv. 99 Princess of Black Flame -27
+
+Battle of the Martial Masters -15
+
+The Yellow-haired Villain in Female Main Character's Novel wants Happiness -30
+
+From Six to Sovereignty: The Girl Who Ruled -57
+
+Eat and Go -21
+
+I Shall Seal the Heavens -8
