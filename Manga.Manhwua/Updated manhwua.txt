@@ -61,7 +61,7 @@ Infinite Mage -88
 
 Star Instructor  Master Baek -99
 
-The Story Of Thorny Spear -38
+The Story Of Thorny Spear -157
 
 Blade debt -39
 
@@ -73,7 +73,7 @@ Terminally-Ill Genius Dark Knight -58
 
 Heavenly Inquisition Sword -122
 
-Tsuki Ga Michibiku Isekai Douchuu -94
+Tsuki Ga Michibiku Isekai Douchuu -111
 
 The Emperor’s Sword -63
 
@@ -121,7 +121,7 @@ Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu O Kiwamemasu -175
 
 Scoring the Sacred Body of the Ancients from the Get-go -58
 
-Magic Emperor -753
+Magic Emperor -781
 
 Martial Peak - 3644
 
@@ -237,8 +237,6 @@ I Summoned The Devil To Grant Me A Wish, But I Married Her Instead Since She Was
 
 A Story About A Dragon And The Rising Of An Adventurer - 19
 
-His Girlfriend - 33
-
 After Being Called A Hero: The Unrivaled Man Starts A Family -25
 
 A Warrior Exiled By The Hero And His Lover -33
@@ -285,7 +283,7 @@ This Account Is Ridiculous -22
 
 The Mysterious World’s Greatest Martial Artist Little Prince -83
 
-The Reborn Young Lord Is An Assassin -44
+The Reborn Young Lord Is An Assassin -95
 
 God-Slaying Copycat -12
 
@@ -381,9 +379,9 @@ Starting As A Master Of Female Disciples' Leisure Skills -3
 
 Song Baek - 25
 
- Surviving as a Genius on Borrowed Time -54
+Surviving as a Genius on Borrowed Time -54
 
-The Regressed Mercenary’s Machinations -34
+The Regressed Mercenary’s Machinations -61
 
 Traveling Through Time And Space To Become An Unlucky Npc: I Have A Wife To Protect Me -54
 
@@ -467,7 +465,7 @@ The New Beggars' Sect -16
 
 Overgeared -130
 
-Regressed life of the Sword Clan’s Ignoble Reincarnator -47
+Regressed life of the Sword Clan’s Ignoble Reincarnator -67
 
 Black Fox: Sword Master Of Mount Kunlun -20
 
@@ -561,7 +559,7 @@ Oversummoned, Overpowered, and Over It! -45
 
 A Rogue Guard in a Medieval Fantasy -28
 
-Chronicles of the Lazy Sovereign -11
+Chronicles of the Lazy Sovereign -19
 
 I Was the Final Boss
 
@@ -585,7 +583,7 @@ The Tale of the Skeleton Messenger
 
 The Great Heavenly Demon Sovereign
 
-A Regressor's Tale of Cultivation
+A Regressor's Tale of Cultivation -25
 
 Jade of the Eight Gates -6
 
@@ -618,3 +616,31 @@ From Six to Sovereignty: The Girl Who Ruled -57
 Eat and Go -21
 
 I Shall Seal the Heavens -8
+
+The Executed Sage Who Was Reincarnated as a Lich and Started an All-Out War -55
+
+Demon Instructor's Return -28
+
+The Archduke's Bride Is a Hell Warrior -32
+
+Solo Leveling: Ragnarok
+
+I Became a Patron of Villains -6
+
+Black Crow 
+
+The Marquis Is the Marital Archduke -18
+
+Dukedom's Legendary Prodigy -20
+
+Reincarnated as the Crazed Heir -161
+
+Lord of the Apocalypse
+
+Reincarnated Murim Lord
+
+Don't Tell Me You Think Cultivating Immortality Is Difficult? -34
+
+Immortal Fairy, Please Listen to My Explanation -10
+
+Maplestory: The Last Adventurer
