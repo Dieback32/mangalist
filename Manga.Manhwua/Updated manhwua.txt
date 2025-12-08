@@ -1,5 +1,7 @@
 kingdom - 858
 
+Vagabond - 266
+
 My Dragon System - 38
 
 The Knight King Who Returned With A God - 51
@@ -247,17 +249,17 @@ Nimotsu Mochi No Nousuji Musou - 7.2
 
 The Strongest Dull Prince’s Secret Battle for the Throne - 29
 
-The Sword of Princess Gluttony -33
+The Sword of Princess Gluttony -38
 
-Wistoria's Wand And Sword -43
+Wistoria's Wand And Sword -58
 
 The Crafty Mage: Frontier Settling Made Easy -18
 
 Delivery Man From Murim -54
 
-Henkyou Gurashi No Maou, Tensei Shite Saikyou No Majutsushi Ni Naru -36
+Henkyou Gurashi No Maou, Tensei Shite Saikyou No Majutsushi Ni Naru -37
 
-The Executed Sage Is Reincarnated As A Lich And Starts An All-Out War -36
+The Executed Sage Is Reincarnated As A Lich And Starts An All-Out War -56
 
 Dungeon Ni Hisomu Yandere Na Kanojo Ni Ore Wa Nando Mo Korosareru - 12.2
 
@@ -335,7 +337,7 @@ The Time Mage's Strong New Game ～I Returned To The Past To Rewrite It As The W
 
 Hundreds of Invincible Strikes -49
 
-arctic cold war -45
+arctic cold war -54
 
 Apocalyptic Super Farm -74
 
@@ -345,7 +347,7 @@ Reincarnator - 37
 
 Hunter Academy’S Strongest Battle God -40
 
-Childhood Friend of the Zenith -53
+Childhood Friend of the Zenith -83
 
 Absolute Regression -76
 
@@ -491,7 +493,7 @@ The Magic Tower's Problem Child -8
 
 I Became the Husband of the Cult Leader of the Demonic Sect -12
 
-The Apocalypse is Here -27
+The Apocalypse is Here -38
 
 If I Don’t Die Soon, I Will Rule The Demon Realm -81
 
@@ -662,3 +664,7 @@ After Rebirth, I Used Mirror Reversal For Vengeance
 Death Attribute Magician
 
 The Great Emperor Shinmadae - 29
+
+Revenger: Apocalypse of Vengeance -38
+
+Hiding Out in an Apocalypse
