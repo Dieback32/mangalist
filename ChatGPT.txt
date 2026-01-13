@@ -1,8 +1,6 @@
 https://www.popai.pro/
-https://aihumanizer.ai/
 https://chat.mistral.ai/chat
 https://gptgo.ai/
-https://www.zerogpt.com/
 https://www.lovo.ai/
 https://www.blackbox.ai/
 torro.link/ai
@@ -14,5 +12,4 @@ https://www.aiforwork.co/
 https://www.perplexity.ai/
 https://bypassgpt.ai/
 https://flowgpt.com/
-https://cleanpaste.site/
 https://flowith.io/

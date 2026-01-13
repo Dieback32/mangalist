@@ -125,7 +125,7 @@ Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu O Kiwamemasu -175
 
 Scoring the Sacred Body of the Ancients from the Get-go -58
 
-Magic Emperor -781
+Magic Emperor -798
 
 Martial Peak - 3644
 
@@ -133,9 +133,9 @@ The Self-Disciplined Me Is Practically Invincible -46
 
 Global Power: I Can Control All The Elements -44
 
-Moon Slayer -17
+Moon Slayer -76
 
-Lightning Degree -210
+Lightning Degree -220
 
 The World's Best Sect Of Dependency -29
 
@@ -143,7 +143,7 @@ The Return Of Apocalypses Tyrant -25
 
 What Do You Do When You Suddenly Become An Immortal? -89
 
-Tales Of Demons And Gods -498
+Tales Of Demons And Gods -508.1
 
 The Kingdoms Of Ruin -43
 
@@ -195,7 +195,7 @@ I Raised the Yandere Villain Empress -15
 
 The Max-Level Player’s 100th Regression -41
 
-The Heavenly Demon Can't Live A Normal Life -117
+The Heavenly Demon Can't Live A Normal Life -182
 
 The Player That Can't Level Up -157
 
@@ -265,9 +265,9 @@ Dungeon Ni Hisomu Yandere Na Kanojo Ni Ore Wa Nando Mo Korosareru - 12.2
 
 I Became A Big-Shot On The Heavenly Leaderboard -91
 
-The Dark Magician Transmigrates After 66666 Years -127
+The Dark Magician Transmigrates After 66666 Years -165
 
-Reaper Of The Drifting Moon -107
+Reaper Of The Drifting Moon -119
 
 The Unbeatable Dungeon's Lazy Boss Monster -92
 
@@ -317,13 +317,13 @@ The Twin Swords Of The Sima -44
 
 Versatile Sword Cultivator -26
 
-Asura -36
+Asura -58
 
 Magic Academy’s Genius Blinker -29
 
 Worthless Profession: Dragon Tamer -34
 
-Expelled Hero Is Too Strong -7
+Expelled Hero Is Too Strong -11
 
 The Ten Thousand Clans Invasion: Guardian Of The Rear -18
 
@@ -351,7 +351,7 @@ Childhood Friend of the Zenith -83
 
 Absolute Regression -76
 
-Warrior Grandpa And Supreme Granddaughter -60
+Warrior Grandpa And Supreme Granddaughter -100
 
 I Scared the Divine Lord as I Handed over the Ancient Immortal Pill -50
 
@@ -373,7 +373,7 @@ The Magic Genius Of The Marquis House -30
 
 The Reversal Of My Life As A Side Character -27
 
-Absolute Dominion -42
+Absolute Dominion -70
 
 Fatal Reset
 
@@ -397,7 +397,7 @@ Levelling Up In An Exclusive Dungeon -26
 
 Reincarnated As A Genius Prodigy Of A Prestigious Family -26
 
-From Goblin To Goblin God -50
+From Goblin To Goblin God -86
 
 Margrave’S Bastard Son Was The Emperor -44
 
@@ -408,8 +408,6 @@ Return Of The Runebound Professor -9
 Regressing as the Reincarnated Bastard of the Sword Clan -26
 
 I, The Demon Lord, Am Being Targeted By My Female Disciples! -17
-
-I Am Possessed By The Sword God -27
 
 Fated to Be Loved by Villains -25
 
@@ -451,7 +449,7 @@ Chronicles of the Reincarnated Demon God -26
 
 Revenge Of the Bloom Flower  -36
 
-The Heavenly Demon Wants a Quiet Life -46
+The Heavenly Demon Wants a Quiet Life -64
 
 Monster General Recorded Legacy -37
 
@@ -551,7 +549,7 @@ Ninja Reincarnation: Fuuma Kotarou’s Quest to Reclaim His Humanity -45
 
 Empress Maria -21
 
-Reincarnation of the Fist King -12
+Reincarnation of the Fist King -34
 
 There Are No Bad Warriors in the World - 40
 
@@ -563,7 +561,7 @@ Oversummoned, Overpowered, and Over It! -45
 
 A Rogue Guard in a Medieval Fantasy -28
 
-Chronicles of the Lazy Sovereign -19
+Chronicles of the Lazy Sovereign -27
 
 I Was the Final Boss
 
@@ -627,7 +625,7 @@ Demon Instructor's Return -28
 
 The Archduke's Bride Is a Hell Warrior -32
 
-Solo Leveling: Ragnarok
+Solo Leveling: Ragnarok -47
 
 I Became a Patron of Villains -6
 
@@ -655,7 +653,7 @@ Spirit Hunter
 
 Player of the Fallen Family
 
-Unrivaled Spear Ghost
+Unrivaled Spear Ghost -25
 
 Reincarnation of the Martial God
 
@@ -668,3 +666,55 @@ The Great Emperor Shinmadae - 29
 Revenger: Apocalypse of Vengeance -38
 
 Hiding Out in an Apocalypse
+
+Bad Born Blood
+
+KaguRai: Kagura to Raito -27
+
+Reincarnated as the Lazy and Villainous Noble, I Broke the Scenario and Became the Most Formidable With Extraordinary Magic -17
+
+Star Armor꞉ I’ll Slaughter Through the Chaos with Star Soul Generals -5
+
+The Demon King Overrun by Heroes -8
+
+The Monkey King’s Journey to the Murim 
+
+The Sage who returned from another world wants to live quietly
+
+Returned from Another World, Earth Turned Out to Be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking This Way
+
+Embodiment of the Assassin in the Murim World -12
+
+Märchen - The Embodiment of Tales
+
+Sichuan’s Supreme King
+
+The Cold-Blooded Warrior
+
+Everyone Loves Her - 44
+
+Paper Tiger
+
+The Sword-Eating Swordmaster -7
+
+The World's Best Kunlun Tavern -97
+
+Defense Breaker -29
+
+Worlds Best Assassin -50
+
+The World's Best Martial Arts Instructor -52
+
+How a Realist Hero Rebuilt the Kingdom
+
+To Hell With The Status Window -4
+
+Becoming a Cheat-Level Skill Thief -15
+
+Sichuan's Supreme King -7
+
+Reborn After the Eight Empresses Betrayed Me, Now I’ll Make Them Regret It -5
+
+Rebirth of the Demon Lord: the Slave who Conquered Fate
+
+I, The Demon Lord am being targeted by my female Disciples!
