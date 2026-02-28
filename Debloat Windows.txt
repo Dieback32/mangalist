@@ -1,0 +1,3 @@
+1. Run Windows PowerShell asd Admin
+2. Type this >> iwr -useb https://christitus.com/win | iex
+3. Go to Tweaks and check the things that you want to disable
