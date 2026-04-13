@@ -61,7 +61,7 @@ Utest - https://www.utest.com
 What Users Do - https://app.whatusersdo.com/login
 
 ANNOTATION/TASKING/TAGGING:
-Remote Tasks - https://remotasks.com/r/5CVBKI56
+Remote Tasks - https://remotasks.com/
 Humanatic - https://www.humanatic.com
 Microwork - https://microwork.io
 
