@@ -50,8 +50,7 @@ Samurai In Another World -10.1
 
 Peerless Quest – The Cheat Skill Only I Can Use -3
 
-Isekai De Haishin Katsudou Wo Shitara
- Tairyou No Yandere Shinja Wo Umidashite Shimatta Ken -19
+Isekai De Haishin Katsudou Wo Shitara Tairyou No Yandere Shinja Wo Umidashite Shimatta Ken -19
 
 Boundless Necromancer -54
 
@@ -125,7 +124,7 @@ Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu O Kiwamemasu -175
 
 Scoring the Sacred Body of the Ancients from the Get-go -58
 
-Magic Emperor -798
+Magic Emperor -851
 
 Martial Peak - 3644
 
@@ -149,7 +148,7 @@ The Kingdoms Of Ruin -43
 
 Necromancer Academy And The Genius Summoner -44
 
-Yuan Zun -544
+Yuan Zun -574
 
 The Greatest Estate Designer -121
 
@@ -221,19 +220,19 @@ How to Live at the Max Level -79
 
 The All-Knowing Cultivator -46
 
-Kurasu ≪Mushoku≫ No Eiyuu-Tan ~Koushaku-Ka O Tsuihou Sareta Ga, Jitsu Wa Nagutta Dake De Sukiru O Kakutoku Dekiru To Wakari, Tairiku Ichi No Eiyuu Ni Nobori Tsumeru~-34
+Kurasu ≪Mushoku≫ No Eiyuu-Tan ~Koushaku-Ka O Tsuihou Sareta Ga, Jitsu Wa Nagutta Dake De Sukiru O Kakutoku Dekiru To Wakari, Tairiku Ichi No Eiyuu Ni Nobori Tsumeru -34
 
 Villager A Wants To Save The Villainess No Matter What! -38.1
 
 Savage Hero - 63
 
-Genkai Koe No Tenpu wa, Tensei-sha ni Shika Atsukaenai – Overlimit Skill Holders -31
+Genkai Koe No Tenpu wa, Tensei-sha ni Shika Atsukaenai Overlimit Skill Holders -31
 
 Maken Tsukai No Moto Shounen Hei Wa, Moto Teki Kanbu No Onee-San To Issho Ni Ikitai - 29
 
 Mannen D-Rank No Chuunen Boukensha, Yotta Ikioi De Densetsu No Ken Wo Hikkonuku -49
 
-Dungeon Sherpa: Meikyuu Michisaki Annainin -20
+Dungeon Sherpa: Meikyuu Michisaki Annainin - 20
 
 A Sword Master Childhood Friend Power Harassed Me Harshly, So I Broke Off Our Relationship And Made A Fresh Start At The Frontier As A Magic Swordsman -20
 
@@ -375,7 +374,7 @@ The Reversal Of My Life As A Side Character -27
 
 Absolute Dominion -70
 
-Fatal Reset
+Fatal Reset - 
 
 The Necromancer Family’s Young Heir -20
 
@@ -417,7 +416,7 @@ Heavenly Demon Wants To Be A Chef -22
 
 Entomologist In Sichuan Tang Clan -51
 
-Last Word of the World
+Last Word of the World - 
 
 Cosmic Heavenly Demon 3077 -60
 
@@ -461,7 +460,7 @@ Metcha Shoukan Sareta Ken -30
 
 Mount Hua Sect's Genius Phantom Swordsman - 18
 
-I'm going to destroy this country
+I'm going to destroy this country - 
 
 The New Beggars' Sect -16
 
@@ -517,7 +516,7 @@ Ultimate Shut-in -30
 
 The beginning after the end -219
 
-Reborn in a Cyber Cultivation World, I Fight My Way to the Top
+Reborn in a Cyber Cultivation World, I Fight My Way to the Top - 
 
 Level 999 Goblin -7
 
@@ -525,19 +524,19 @@ Dominating the Wasteland: I Control an Immortal Sect in the Apocalypse - 1
 
 Starting As The God Of Wealth, Taming Billions Of Divine Pets! - 22
 
-Martial Evolution: Start by Awakening the King of Monsters
+Martial Evolution: Start by Awakening the King of Monsters - 
 
-The Girl from Random Chatting
+The Girl from Random Chatting - 
 
-Return of the Legend
+Return of the Legend - 
 
-I am Han Sanqian
+I am Han Sanqian - 
 
 Emperor of Solo Play - 18
 
 The Fox-Eyed Villain of the Demon Academy -29
 
-The Awakening Contract
+The Awakening Contract -
 
 The Sword God From a Fallen World -22
 
@@ -563,7 +562,7 @@ A Rogue Guard in a Medieval Fantasy -28
 
 Chronicles of the Lazy Sovereign -27
 
-I Was the Final Boss
+I Was the Final Boss - 
 
 Tang Clan Legend - 13
 
@@ -579,11 +578,11 @@ New Goguryeo Chronicles -38
 
 Devil Summoner, I am the Abyss Lord -31
 
-Legend of Dangun
+Legend of Dangun -
 
-The Tale of the Skeleton Messenger
+The Tale of the Skeleton Messenger - 
 
-The Great Heavenly Demon Sovereign
+The Great Heavenly Demon Sovereign - 
 
 A Regressor's Tale of Cultivation -25
 
@@ -593,9 +592,9 @@ Disciple of the Three Kings
 
 After the School Belle Dumped Me, I Became a Martial Arts God -29
 
-Dead Mansion
+Dead Mansion - 
 
-Return of the King of Hell
+Return of the King of Hell - 
 
 Plaything -56
 
@@ -629,7 +628,7 @@ Solo Leveling: Ragnarok -47
 
 I Became a Patron of Villains -6
 
-Black Crow 
+Black Crow - 
 
 The Marquis Is the Marital Archduke -18
 
@@ -637,29 +636,29 @@ Dukedom's Legendary Prodigy -20
 
 Reincarnated as the Crazed Heir -161
 
-Lord of the Apocalypse
+Lord of the Apocalypse - 
 
 Don't Tell Me You Think Cultivating Immortality Is Difficult? -34
 
 Immortal Fairy, Please Listen to My Explanation -10
 
-Maplestory: The Last Adventurer
+Maplestory: The Last Adventurer - 
 
-The Steel Emperor
+The Steel Emperor - 
 
-The Luoyang Branch of the Heavenly Demon Cult
+The Luoyang Branch of the Heavenly Demon Cult -
 
-Spirit Hunter
+Spirit Hunter - 
 
-Player of the Fallen Family
+Player of the Fallen Family - 
 
 Unrivaled Spear Ghost -25
 
-Reincarnation of the Martial God
+Reincarnation of the Martial God - 
 
-After Rebirth, I Used Mirror Reversal For Vengeance
+After Rebirth, I Used Mirror Reversal For Vengeance - 
 
-Death Attribute Magician
+Death Attribute Magician - 
 
 The Great Emperor Shinmadae - 29
 
@@ -667,7 +666,7 @@ Revenger: Apocalypse of Vengeance -38
 
 Hiding Out in an Apocalypse
 
-Bad Born Blood
+Bad Born Blood - 
 
 KaguRai: Kagura to Raito -27
 
@@ -677,17 +676,17 @@ Star Armor꞉ I’ll Slaughter Through the Chaos with Star Soul Generals -5
 
 The Demon King Overrun by Heroes -8
 
-The Monkey King’s Journey to the Murim 
+The Monkey King’s Journey to the Murim - 
 
-The Sage who returned from another world wants to live quietly
+The Sage who returned from another world wants to live quietly - 
 
-Returned from Another World, Earth Turned Out to Be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking This Way
+Returned from Another World, Earth Turned Out to Be Quite the Fantasy Too. Also, Losing Heroines, Stop Looking This Way - 
 
 Embodiment of the Assassin in the Murim World -12
 
-Märchen - The Embodiment of Tales
+Märchen - The Embodiment of Tales -
 
-Sichuan’s Supreme King
+Sichuan’s Supreme King - 
 
 The Cold-Blooded Warrior -40
 
@@ -717,24 +716,29 @@ Sichuan's Supreme King -7
 
 Reborn After the Eight Empresses Betrayed Me, Now I’ll Make Them Regret It -5
 
-Rebirth of the Demon Lord: the Slave who Conquered Fate
+Rebirth of the Demon Lord: the Slave who Conquered Fate - 
 
-I, The Demon Lord am being targeted by my female Disciples!
+I, The Demon Lord am being targeted by my female Disciples! - 
 
-The Strongest Wizard Becomes a Countryside Guard After Taking an Arrow to the Knee
+The Strongest Wizard Becomes a Countryside Guard After Taking an Arrow to the Knee - 
 
 The Secret Martial Artist of Demonic Blood -12
 
-The Strongest Hero Who Longs For Revenge Will Peerlessly Annihilate With The Power Of Darkness
+The Strongest Hero Who Longs For Revenge Will Peerlessly Annihilate With The Power Of Darkness -
 
 I Became the Scoundrel of the Cheon Family -6
 
-Supreme Demon of Hyungsan
+Supreme Demon of Hyungsan - 
 
-Orc Hero Story - Discovery Chronicles
+Orc Hero Story - Discovery Chronicles -
 
 Boukun Meika no Hangyakusha -Aster - 9
 
 Jakdu - 
 
 The Tale of the Skeleton Messenger -
+
+Secretly Cultivating by the Demon Cult Leader's Side - 34
+
+The Old Prisoner Lives in Solitude - 24
+
