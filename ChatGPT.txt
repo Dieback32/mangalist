@@ -15,5 +15,10 @@ https://flowgpt.com/
 https://flowith.io/
 https://arena.ai/
 https://lbrty.ai/home
+<<<<<<< HEAD
 https://poe.com/
 https://www.eye2.ai/
+=======
+https://www.genspark.ai/
+https://aifreeforever.com/
+>>>>>>> 9293c9a292ce54d1e0cfef4d9d7adf15499d69b2
