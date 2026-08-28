@@ -9,10 +9,7 @@ https://ninite.com/
 https://getintopc.com/
 https://shapefest.com/
 https://www.ovagames.com/
-<<<<<<< HEAD
 https://emulatorgameszone.com/
-=======
 https://www.romsgames.net/
 https://www.4fnet.org/
 https://ankergames.net/
->>>>>>> 9293c9a292ce54d1e0cfef4d9d7adf15499d69b2
