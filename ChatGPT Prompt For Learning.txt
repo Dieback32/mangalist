@@ -1,0 +1,13 @@
+"Use these to master core principles, build skills fast, and double your productivity:"
+1. Master Any Topic Quickly (80/20 Rule)
+💬 Prompt: “I want to learn about [insert topic]. Identify and explain the most crucial 20% of concepts or skills that will help me grasp 80% of the topic effectively.”
+2. Build Any New Skill in 30 Days
+💬 Prompt: “I want to learn/get better at [insert skill]. As a complete beginner, create a step-by-step 30-day learning plan tailored for me to efficiently build and improve this skill.”
+3. Tackle Complex Problems Step-by-Step
+💬 Prompt: “Act as a problem-solving expert. Provide me with a detailed, step-by-step guide to tackle [insert your problem], ensuring I can approach similar challenges with confidence.”
+4. Self-Test & Spot Knowledge Gaps
+💬 Prompt: “I am learning about [insert topic]. Create a series of progressively challenging questions to test my understanding. Identify gaps in my knowledge based on my answers and provide clarifications.”
+5. Lock in Memory with Stories & Metaphors
+💬 Prompt: “I am currently studying [insert topic]. Transform the key takeaways into engaging stories or memorable metaphors that will help me retain the information effortlessly.”
+6. Beat Writer’s Block Fast
+💬 Prompt: “I’m writing content about [insert topic]. Draft a 10-point outline for the post and suggest 5 catchy headline options to grab readers’ attention.”
