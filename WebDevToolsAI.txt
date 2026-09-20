@@ -1,4 +1,8 @@
-https://manus.im/
 https://styles.refero.design/
 https://skiper-ui.com/
 https://reactbits.dev/
+https://motion-primitives.com/
+https://ui.watermelon.sh/
+https://manus.im/
+https://svgl.app/
+https://code2prompt.dev/
