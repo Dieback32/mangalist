@@ -6,3 +6,4 @@ https://ui.watermelon.sh/
 https://manus.im/
 https://svgl.app/
 https://code2prompt.dev/
+https://flexboxlabs.netlify.app/
